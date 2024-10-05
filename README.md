@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmburgD
 - 👀 I’m interested in Cybersecurity and Game Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on game development and cool home improvement projects
+- 🌱 I’m currently learning Powershell
+- 💞️ I’m excited about learning more about the world of scripting and creating really useful programs
 - 📫 How to reach me daxamb314@gmail.com
 
 <!---
